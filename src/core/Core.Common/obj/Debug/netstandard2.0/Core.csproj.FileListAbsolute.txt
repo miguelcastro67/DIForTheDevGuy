@@ -1,0 +1,9 @@
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\bin\Debug\netstandard2.0\Core.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\bin\Debug\netstandard2.0\Core.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\bin\Debug\netstandard2.0\Core.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Core\obj\Debug\netstandard2.0\Core.pdb

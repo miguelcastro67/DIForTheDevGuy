@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <installers>
+    <install type="DemoConsole.RepositoryRegistrationModule, DemoConsole" />
+  </installers>
+  <components>
+    <component type="Lib.Logger, Lib" service="Lib.Abstractions.ILogger, Lib" lifestyle="transient" />
+    <component type="Lib.SuperheroService, Lib" lifestyle="transient" />
+  </components>
+</configuration>

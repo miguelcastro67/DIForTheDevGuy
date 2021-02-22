@@ -1,0 +1,37 @@
+﻿@model MoviePhile.Entities.Movie
+
+@section scripts
+    {
+    <script src="~/app/Movie/MovieInfoViewModel.js"></script>
+}
+@section ko_apply
+    {
+    var viewModel = new movieInfoViewModel(@Model.MovieId, '@Model.Name', @Model.GenreId);
+    ko.applyBindings(viewModel, $("#movieInfo")[0]);
+}
+
+<h1>Movie Info</h1>
+
+<div id="movieInfo">
+
+    <div data-bind="if: selectedGenre() != null">
+        <div data-bind="visible: editMode() == false">
+            <h2><span data-bind="text: movieName"></span></h2>
+            <hr />
+            <span><b>Genre: </b></span><span data-bind="text: selectedGenre().description"></span>
+            <hr />
+            <button type="button" class="btn" data-bind="click: edit">Edit</button>
+        </div>
+    
+        <div data-bind="visible: editMode() != false">
+            <h2><input type="text" class="form-control" data-bind="value: movieName" /></h2>
+            <hr />
+            <span><b>Genre: </b></span>
+            <select data-bind="options: genres, optionsText: 'description', value: selectedGenre" class="dropdown"></select>
+            <hr />
+            <button type="button" class="btn" data-bind="click: cancel">Cancel</button>&nbsp;
+            <button type="button" class="btn" data-bind="click: save">Save</button>
+        </div>
+    </div>
+
+</div>

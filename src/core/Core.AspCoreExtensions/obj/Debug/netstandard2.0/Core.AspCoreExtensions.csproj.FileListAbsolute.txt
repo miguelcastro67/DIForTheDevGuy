@@ -1,0 +1,36 @@
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.AspCoreExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.AspCoreExtensions\obj\Debug\netstandard2.0\Core.AspCoreExtensions.pdb

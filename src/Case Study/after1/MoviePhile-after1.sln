@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Entities", "MoviePhile.Entities\MoviePhile.Entities.csproj", "{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Data", "MoviePhile.Data\MoviePhile.Data.csproj", "{54301C87-B633-42D7-85A8-C2217344EAC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web", "MoviePhile.Web\MoviePhile.Web.csproj", "{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Melvicorp.Data", "..\..\..\core\Melvicorp.DAL\Melvicorp.Data\Melvicorp.Data.csproj", "{48CC9804-B223-4CDD-A225-BA47366AC112}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dlients", "dlients", "{18EAED88-826A-4482-8E1B-11F08E7741EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{AAF9EAE9-2305-4F50-B80E-37B3D878E0A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "biz", "biz", "{74551F8F-5AD5-4E9A-918B-40131DD2AA9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web_AspCore", "MoviePhile.Web-AspCore\MoviePhile.Web_AspCore.csproj", "{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web_Autofac", "MoviePhile.Web-Autofac\MoviePhile.Web_Autofac.csproj", "{4FEB2625-D8FE-4604-9032-CEE1C206AF42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web_Ninject", "MoviePhile.Web-Ninject\MoviePhile.Web_Ninject.csproj", "{304EE277-3EE7-4F82-8A7D-2306D1EC16C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web_CastleWindsor", "MoviePhile.Web-CastleWindsor\MoviePhile.Web_CastleWindsor.csproj", "{C9E37AFF-56CE-437F-9DB6-762E7FB472B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviePhile.Web_Unity", "MoviePhile.Web-Unity\MoviePhile.Web_Unity.csproj", "{A6B865A0-5633-46CA-AFF2-247F8969DCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54301C87-B633-42D7-85A8-C2217344EAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54301C87-B633-42D7-85A8-C2217344EAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54301C87-B633-42D7-85A8-C2217344EAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54301C87-B633-42D7-85A8-C2217344EAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CC9804-B223-4CDD-A225-BA47366AC112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CC9804-B223-4CDD-A225-BA47366AC112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CC9804-B223-4CDD-A225-BA47366AC112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CC9804-B223-4CDD-A225-BA47366AC112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEB2625-D8FE-4604-9032-CEE1C206AF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEB2625-D8FE-4604-9032-CEE1C206AF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEB2625-D8FE-4604-9032-CEE1C206AF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEB2625-D8FE-4604-9032-CEE1C206AF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304EE277-3EE7-4F82-8A7D-2306D1EC16C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304EE277-3EE7-4F82-8A7D-2306D1EC16C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304EE277-3EE7-4F82-8A7D-2306D1EC16C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304EE277-3EE7-4F82-8A7D-2306D1EC16C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E37AFF-56CE-437F-9DB6-762E7FB472B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E37AFF-56CE-437F-9DB6-762E7FB472B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E37AFF-56CE-437F-9DB6-762E7FB472B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E37AFF-56CE-437F-9DB6-762E7FB472B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B865A0-5633-46CA-AFF2-247F8969DCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B865A0-5633-46CA-AFF2-247F8969DCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B865A0-5633-46CA-AFF2-247F8969DCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B865A0-5633-46CA-AFF2-247F8969DCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30C8516B-43BB-443B-A9B1-0AEF1DBCEC2C} = {74551F8F-5AD5-4E9A-918B-40131DD2AA9A}
+		{54301C87-B633-42D7-85A8-C2217344EAC7} = {74551F8F-5AD5-4E9A-918B-40131DD2AA9A}
+		{5AB5CC40-E4C0-4121-BC0F-023521BCA9A8} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+		{48CC9804-B223-4CDD-A225-BA47366AC112} = {AAF9EAE9-2305-4F50-B80E-37B3D878E0A8}
+		{FEA8D5A9-D005-45AE-9721-DA9F8FD96C2D} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+		{4FEB2625-D8FE-4604-9032-CEE1C206AF42} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+		{304EE277-3EE7-4F82-8A7D-2306D1EC16C1} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+		{C9E37AFF-56CE-437F-9DB6-762E7FB472B0} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+		{A6B865A0-5633-46CA-AFF2-247F8969DCE6} = {18EAED88-826A-4482-8E1B-11F08E7741EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA9DF49-CEFD-42E3-9A2A-9523C26D7CF8}
+	EndGlobalSection
+EndGlobal

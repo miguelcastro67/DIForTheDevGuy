@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<module name="ninjectModule">
+  <bind service="Lib.Abstractions.ILogger, Lib"
+        to="Lib.Logger, Lib" />
+  <bind service="Lib.Abstractions.IAvengerRepository, Lib"
+        to="Lib.AvengerRepository, Lib" />
+</module>

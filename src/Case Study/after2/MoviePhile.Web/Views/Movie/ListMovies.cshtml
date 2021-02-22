@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MoviePhile.Entities.Movie>
+
+<h1>Movie List</h1>
+
+<div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in Model)
+            {
+            <tr>
+                <td>@movie.Name</td>
+                <td>
+                    <a asp-controller="Movie" asp-action="MovieInfo" asp-route-movieId="@movie.MovieId">Info</a>
+                    &nbsp;|&nbsp;
+                    <a asp-controller="Movie" asp-action="MovieCast" asp-route-movieId="@movie.MovieId">Cast</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    
+</div>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib", "Lib\Lib.csproj", "{69B74E73-CE44-4DD4-9919-0F5F5C410A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinHost", "OwinHost\OwinHost.csproj", "{FCFFD543-EDC5-42A1-B8B8-72DD4B0C9C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B74E73-CE44-4DD4-9919-0F5F5C410A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B74E73-CE44-4DD4-9919-0F5F5C410A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B74E73-CE44-4DD4-9919-0F5F5C410A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B74E73-CE44-4DD4-9919-0F5F5C410A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFFD543-EDC5-42A1-B8B8-72DD4B0C9C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFFD543-EDC5-42A1-B8B8-72DD4B0C9C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFFD543-EDC5-42A1-B8B8-72DD4B0C9C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFFD543-EDC5-42A1-B8B8-72DD4B0C9C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350091CE-F8F6-4CD4-9670-28CE2ED6993A}
+	EndGlobalSection
+EndGlobal

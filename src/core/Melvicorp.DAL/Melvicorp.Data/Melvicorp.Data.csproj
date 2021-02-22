@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Miguel A. Castro</Authors>
+    <Product>Melvicorp Data Access Layer Core</Product>
+    <PackageTags>melvicorp DAL</PackageTags>
+    <NeutralLanguage>en-us</NeutralLanguage>
+    <Description>This package contains core data access components.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+  </ItemGroup>
+
+</Project>

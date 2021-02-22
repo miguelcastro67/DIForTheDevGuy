@@ -1,0 +1,12 @@
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\bin\Debug\netstandard2.0\Core.UnityExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\bin\Debug\netstandard2.0\Core.UnityExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\bin\Debug\netstandard2.0\Core.UnityExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.UnityExtensions\obj\Debug\netstandard2.0\Core.UnityExtensions.csprojAssemblyReference.cache

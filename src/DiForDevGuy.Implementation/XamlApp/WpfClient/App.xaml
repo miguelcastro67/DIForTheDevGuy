@@ -1,0 +1,16 @@
+﻿<Application x:Class="WpfClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfClient"
+             xmlns:vm="clr-namespace:WpfClient.ViewModels"
+             xmlns:v="clr-namespace:WpfClient.Views"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type vm:AvengersViewModel}">
+            <v:AvengersView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AvengerViewModel}">
+            <v:AvengerView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

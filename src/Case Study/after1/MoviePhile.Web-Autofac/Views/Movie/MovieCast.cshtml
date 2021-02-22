@@ -1,0 +1,48 @@
+﻿@model int;
+@{
+    ViewData["Title"] = "Movie Cast";
+}
+@section scripts
+    {
+    <script src="~/app/Movie/MovieCastViewModel.js"></script>
+}
+@section ko_apply
+    {
+    var viewModel = new movieCastViewModel(@Model);
+    ko.applyBindings(viewModel, $("#movieCast")[0]);
+    }
+
+    <h1>Movie Cast</h1>
+
+    <div id="movieCast">
+
+        <div>
+            <h2><span data-bind="value: movieName"></span></h2>
+            <hr />
+            <table>
+                <thead>
+                    <tr>
+                        <th>Actor</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                <tbody data-bind="foreach: cast">
+                    <tr>
+                        <td data-bind="text: name"></td>
+                        <td><a href="#" data-bind="click:$root.delete">delete</a></td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr />
+            <div data-bind="visible: addMode() == false">
+                <a href="#" data-bind="click: addNew">Add New</a>
+            </div>
+            <div data-bind="visible: addMode() != false">
+                <input type="text" class="form-control" data-bind="value: actorName" />
+                <a href="#" data-bind="click: cancel">Cancel</a>&nbsp;|&nbsp;
+                <a href="#" data-bind="click: save">Save</a>
+            </div>
+        </div>
+
+    </div>

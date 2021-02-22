@@ -1,0 +1,12 @@
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\bin\Debug\netstandard2.0\Core.CastleWindsorExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\bin\Debug\netstandard2.0\Core.CastleWindsorExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\bin\Debug\netstandard2.0\Core.CastleWindsorExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.CastleWindsorExtensions\obj\Debug\netstandard2.0\Core.CastleWindsorExtensions.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿@model Lib.Hero
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Avenger</title>
+    </head>
+    <body>
+        <div>
+            @Html.DisplayFor(m => m.SuperheroName)
+        </div>
+        <div>
+            @Html.DisplayFor(m => m.RealName)
+        </div>
+        <div>
+            @Html.DisplayFor(m => m.Power)
+        </div>
+        <br /><br />
+        <div>
+            @Html.ActionLink("Home", "Index")
+        </div>
+    </body>
+</html>

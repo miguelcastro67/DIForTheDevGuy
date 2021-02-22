@@ -1,0 +1,48 @@
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.AppArchitecture\ExtensionProjects2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\work\Case Study\after2\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.NinjectExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.dll
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\bin\Debug\netstandard2.0\Core.Common.pdb
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\core\Core.NinjectExtensions\obj\Debug\netstandard2.0\Core.NinjectExtensions.csproj.CopyComplete

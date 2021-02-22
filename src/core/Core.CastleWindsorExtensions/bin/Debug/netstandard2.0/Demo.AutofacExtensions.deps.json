@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "273edca4010de86f765644980e512196ac5c8863"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Demo.AutofacExtensions/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.1",
+          "Core": "1.0.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Demo.AutofacExtensions.dll": {}
+        }
+      },
+      "Autofac/4.9.1": {
+        "runtime": {
+          "lib/netstandard2.0/Autofac.dll": {
+            "assemblyVersion": "4.9.1.0",
+            "fileVersion": "4.9.1.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Core/1.0.0": {
+        "runtime": {
+          "Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.AutofacExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L92DMQxpy4Xw3IypXxL8Z4NHt+qIkB1e0NB2OJ9u105Xp5sVsZSJ04YtYyubmM3KG8aC+WpyBhN14XcjPx5gLg==",
+      "path": "autofac/4.9.1",
+      "hashPath": "autofac.4.9.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

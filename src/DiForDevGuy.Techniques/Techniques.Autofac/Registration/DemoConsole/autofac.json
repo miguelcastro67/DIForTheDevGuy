@@ -1,0 +1,18 @@
+{
+  "defaultAssembly":  "DemoConsole",
+  "modules": [
+    { "type": "DemoConsole.ConcreteRegistrationModule" },
+    { "type": "DemoConsole.RepositoryRegistrationModule" }
+  ],
+  "components": [
+    {
+      "type": "Lib.Logger, Lib",
+      "services": [
+        {
+          "type": "Lib.Abstractions.ILogger, Lib",
+          "instance-scope": "perdependency"
+        }
+      ]      
+    }
+  ]
+}

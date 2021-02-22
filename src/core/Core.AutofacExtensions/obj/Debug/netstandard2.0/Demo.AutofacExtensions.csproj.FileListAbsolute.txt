@@ -1,0 +1,12 @@
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\bin\Debug\netstandard2.0\Demo.AutofacExtensions.deps.json
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\bin\Debug\netstandard2.0\Demo.AutofacExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.csprojAssemblyReference.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.csproj.CoreCompileInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.AssemblyInfoInputs.cache
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.AssemblyInfo.cs
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\bin\Debug\netstandard2.0\Demo.AutofacExtensions.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\bin\Debug\netstandard2.0\Core.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\bin\Debug\netstandard2.0\Core.pdb
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.csproj.CopyComplete
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.dll
+F:\Presentations\General\DI For The Dev Guy\src\reset\DiForDevGuy.Advanced\ExtensionProjects\Demo.AutofacExtensions\obj\Debug\netstandard2.0\Demo.AutofacExtensions.pdb
